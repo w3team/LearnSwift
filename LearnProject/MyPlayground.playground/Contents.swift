@@ -83,41 +83,41 @@ import UIKit
 //    a = "abc"
 //    print(a!)
 
-var name:String = "Thang Nguyen"
-print(name)
-
-var age:Int = 10
-print(age)
-
-var latitude:Double = 36.234234
-var longtitude:Float = -86.7777980
-
-
-var b = 10
-b += 10
-b -= 10
-
-var stayOutTooLate = true
-stayOutTooLate
-!stayOutTooLate
-
-var age2 = 25
-print("You are \(age2) years old. In another \(age2) years you will be \(age2 * 2).")
-
-var evenNumbers = [2, 4, 6, 8]
-var songs = ["Shake it Off", "You Belong with Me", "Back to December"]
-songs[0]
-songs[1]
-songs[2]
-type(of: songs)
-var songs2: [Any] = ["Shake it Off", "You Belong with Me", "Back to December", 3]
-
-
-var person = ["first": "thang", "middle": "cong", "last": "Tran"]
-person["first"]
-person["last"]
-
-var ten = person["last"]
+//var name:String = "Thang Nguyen"
+//print(name)
+//
+//var age:Int = 10
+//print(age)
+//
+//var latitude:Double = 36.234234
+//var longtitude:Float = -86.7777980
+//
+//
+//var b = 10
+//b += 10
+//b -= 10
+//
+//var stayOutTooLate = true
+//stayOutTooLate
+//!stayOutTooLate
+//
+//var age2 = 25
+//print("You are \(age2) years old. In another \(age2) years you will be \(age2 * 2).")
+//
+//var evenNumbers = [2, 4, 6, 8]
+//var songs = ["Shake it Off", "You Belong with Me", "Back to December"]
+//songs[0]
+//songs[1]
+//songs[2]
+//type(of: songs)
+//var songs2: [Any] = ["Shake it Off", "You Belong with Me", "Back to December", 3]
+//
+//
+//var person = ["first": "thang", "middle": "cong", "last": "Tran"]
+//person["first"]
+//person["last"]
+//
+//var ten = person["last"]
 
 //var action: String
 //var person2 = "thang"
@@ -138,18 +138,70 @@ var ten = person["last"]
 //    action = "cruise"
 //}
 
-
-var action: String
-var stayOutTooLate = true
-var nothingInBrain = true
+//
+//var action: String
+//var stayOutTooLate = true
+//var nothingInBrain = true
 
 //if stayOutTooLate && nothingInBrain {
 //    action = "cruise"
 //}
 
 
+//Loop for
+//print("1 x 10 is \(1 * 10)")
+//print("2 x 10 is \(2 * 10)")
+//print("3 x 10 is \(3 * 10)")
+//print("4 x 10 is \(4 * 10)")
+//print("5 x 10 is \(5 * 10)")
+//print("6 x 10 is \(6 * 10)")
+//print("7 x 10 is \(7 * 10)")
+//print("8 x 10 is \(8 * 10)")
+//print("9 x 10 is \(9 * 10)")
+//print("10 x 10 is \(10 * 10)")
+//
+//for i in 1 ..< 11 {
+//    print("\(i) x 10 is \(i * 10)")
+//}
+//
+//for a in 1 ... 30 {
+//    print("\(a) + 10 is \(a + 10)")
+//}
+//
+//var str = "Thang Nguyen"
+//for _ in 1 ... 5 {
+//    str += " Nguyen"
+//    print(str)
+//}
+//
+//var songs = ["99 doa hong", "tinh don phuong", "yeu nhau day lau", "sahke"]
+//
+//for song in songs {
+//    print("my favoryte song is \(song)")
+//}
+//
+//var people = ["thang", "hai anh", "binh", "nhan", "giang"]
+//var action = ["di choi", "o nha", "an kem", "chua tra loi", "di ngu"]
+//
+//for k in 0 ... 2{
+//    print("\(people[k]) gonna \(action[k])")
+//}
+//
+//for n in 0 ..< people.count {
+//    print("\(people[n]) gonna \(action[n])")
+//}
+//
+//for m in 1 ..< people.count{
+//    var str2 = " \(people[m]) gonna"
+//
+//    for _ in 1 ... 5 {
+//        str2 += " \(action[m])"
+//    }
+//    print(str2)
+//}
 
 
+//Loop While
 
 
 
