@@ -202,12 +202,60 @@ import UIKit
 
 
 //Loop While
+//var counter = 0
+//while true {
+// print("counter is now \(counter)")
+//    counter += 1
+//    if counter == 25{
+//        break
+//    }
+//}
+
+//var sm = String.self
+//for sm in 1 ... 6 {
+//    print("counter is now \(sm)")
+//}
 
 
+//var songs = ["Shake it Off", "You Belong with Me", "Look What You Made Me Do"]
+//
+//for song in songs {
+//    if song == "You Belong with Me" {
+//        continue
+//    }
+//
+//    print("My favorite song is \(song)")
+//}
 
-
-
-
+//Switch case
+//let liveAlbum = 2
+//switch liveAlbum {
+//case 0:
+//    print("You're just starting out")
+//
+//case 1:
+//    print("You just released iTunes Live From SoHo")
+//
+//case 2:
+//    print("You just released Speak Now World Tour")
+//
+//default:
+//    print("Have you done something new?")
+//}
+//
+//let speed = 50
+//switch speed {
+//case 0...50:
+//    print("toc do cho phep")
+//
+//case 50...100:
+//    print("toc do nhanh")
+//
+//case 100...150:
+//    print("qua nhanh")
+//default:
+//    print("ngung")
+//}
 
 
 
