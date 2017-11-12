@@ -258,5 +258,25 @@ import UIKit
 //}
 
 
+//Fuction
+func favoriteAlbum(){
+    print("My favorite Album is 999 doa hong")
+}
+
+favoriteAlbum()
+
+func Laptop(Model: String, Ram:String, Price:Int){
+    print("My laptop is \(Model) ram \(Ram) price \(Price)")
+}
+
+Laptop(Model: "Macbook", Ram: "16g", Price: 58000000)
+
+//internal and External
+func contLetterInString(string: String){
+    print("The string \(string) has \(string.count) letter")
+}
+contLetterInString(string: "hello")
+
+
 
 
