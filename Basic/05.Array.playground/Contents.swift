@@ -26,3 +26,8 @@ var both = songs + songs1
 both += ["Anh Vu 1"]
 print(both)
 
+
+var shoppingList = ["catfish", "water", "tulips", "Blue pain"]
+shoppingList[1]
+let emptyArray = [String]()
+let emptyDictionary = [String: Float]()
